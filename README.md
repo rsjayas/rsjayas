@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsjayas
 - 👀 I’m interested in Web develeopment & Cloud Computing
-- 🌱 I’m currently learning aws cloud architecture and Mean Stack development
+- 🌱 I’m currently learning aws cloud sloution architect and devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
